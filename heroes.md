@@ -8,3 +8,4 @@
 * Robin
 * Volcán Negro
 * SuperAtom
+* SuperAtom2
