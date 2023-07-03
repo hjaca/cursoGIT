@@ -6,6 +6,5 @@
 4. Olavarria
 5. CORDOBA
 6. ROSARIO
-7. CABA
 
 
